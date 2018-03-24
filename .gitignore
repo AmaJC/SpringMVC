@@ -1,0 +1,23 @@
+.DS_Store
+*.aux
+*.log
+.latex.json
+.latex/
+*.idea
+### LaTeX ###
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.gz
+
+### Java ###
+*.class
